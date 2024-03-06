@@ -106,3 +106,5 @@ Pipeline expressions and functions 	Blueprint library 	Step Functions intrinsic 
 Samples
 
 The following sections lists public examples that you can refer to migrate from AWS Data Pipeline to individual services. You can refer them as examples, and build your own pipeline on the individual services by updating and testing it based on your use case.
+
+[Google Cloud](https://www.youtube.com/watch?v=iIxq9x8jBa8)
