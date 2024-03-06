@@ -1,3 +1,5 @@
+![Pipeline](https://docs.aws.amazon.com/images/datapipeline/latest/DeveloperGuide/images/dp-how-dp-works-v2.png)
+
 # Data-Analytics-Pipeline-using-Amazon-Data-Migration-Service
 
 AWS launched the AWS Data Pipeline service in 2012. At that time, customers were looking for a service to help them reliably move data between different data sources using a variety of compute options. Now, there are other services that offer customers a better experience. For example, you can use AWS Glue to to run and orchestrate Apache Spark applications, AWS Step Functions to help orchestrate AWS service components, or Amazon Managed Workflows for Apache Airflow (Amazon MWAA) to help manage workflow orchestration for Apache Airflow.
